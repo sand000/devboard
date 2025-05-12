@@ -1,4 +1,3 @@
-import React from "react";
 import StatusUpdater from "./StatusUpdater";
 
 function UserProfileCard({ user }) {

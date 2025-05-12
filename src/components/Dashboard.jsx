@@ -1,9 +1,5 @@
-import React, { use } from "react";
 import { useAuth } from "../context/AuthContext";
-import StatusUpdater from "./StatusUpdater";
-import { useTheme } from "../context/ThemeContext";
 import ThemeToggle from "./ThemeToggle";
-import Login from "./login";
 import UserProfileCard from "./UserProfileCard";
 
 function Dashboard() {
